@@ -1,8 +1,8 @@
 var cir = {
   X: 0,
   y: 0,
-  dia1: 10,
-  dia2:10
+  dia1: 50,
+  dia2: 50
 };
 
 var col = {
